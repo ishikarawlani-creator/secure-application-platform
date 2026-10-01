@@ -94,7 +94,7 @@ Additional documentation:
 
 The security architecture diagram is available in:
 
-`architecture/security-architecture.png`
+`file_00000000070c8211a0a359d162d7aed3.png`
 
 ## Security and Confidentiality
 
