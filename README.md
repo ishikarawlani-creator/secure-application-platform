@@ -79,16 +79,17 @@ The project includes testing for:
 
 * Project Documentation
 
-The complete project report, including evidence screenshots and explanations, is available here:
+## Project Documentation
 
-**[Project Report](docs/Project-Report.pdf)**
+The complete project report contains the implementation evidence, screenshots, security testing results, monitoring evidence, limitations, and final project summary.
 
-Additional documentation:
+### Documentation
 
-- [Security Controls](docs/security-controls.md)
-- [Attack Walkthrough](docs/attack-walkthrough.md)
-- [Dry Run Checklist](docs/dry-run-checklist.md)
-- [Teardown Guide](docs/teardown.md)
+- [Project Report](./Ishika_Rawlani_Project_Report_22_September_2026_Final.pdf)
+- [Security Controls](./docs/security-controls.md)
+- [Attack Walkthrough](./docs/attack-walkthrough.md)
+- [Dry Run Checklist](./docs/dry-run-checklist.md)
+- [Teardown Guide](./docs/teardown.md)
 
 ## Architecture
 
